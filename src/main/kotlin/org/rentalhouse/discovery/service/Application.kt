@@ -1,4 +1,4 @@
-package org.funlearn.discovery.service
+package org.rentalhouse.discovery.service
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
